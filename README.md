@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-<h1 align="center" style="margin-bottom: 0;"> I'm Ayushman</h1>
-<h2 align="center">Data Science Student and philomaths</h2>
-<h4 align="center" style="margin-bottom: 0;">Student at Chennai Mathematical Institute, India</h3>
+<h1 align="center" style="margin-bottom: 0;">I'm Ayushman</h1>
+<h2 align="center">Data Science Student and Philomath</h2>
+<h4 align="center" style="margin-bottom: 0;">Student at Chennai Mathematical Institute, India</h4>
 <hr style="border: 0; height: 3px; background-color: black;">
+
 
 #####
 
