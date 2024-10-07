@@ -59,6 +59,9 @@ I thrive on problem-solving and approach challenges with a determined, never-giv
 
 ###
 
+### 1. [Professional CV 📄 ](https://github.com/AyushmanGHub/AyushmanGhub.github.io/blob/main/Ayushman%20Official%20CMI%20CV.pdf)
+### 2. [Educational CV 📄 ](https://github.com/AyushmanGHub/AyushmanGhub.github.io/blob/main/Ayushman_Educational_CV.pdf)
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
