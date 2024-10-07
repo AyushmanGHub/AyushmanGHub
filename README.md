@@ -4,6 +4,24 @@
 <h3 align="center">Data Science Student and philomaths</h3>
 <h4 align="center">Student at Chennai Mathematical Institute, India</h3>
 
+#####
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ayushman-anupam" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://ayushmanghub.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo" />
+  </a>
+  <a href="mailto: ayushmantutu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+  </a>
+  <a href="https://x.com/AyurAyushman" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  </a>
+</div>
+
+####
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmanghub&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmanghub" /> </p>
 
