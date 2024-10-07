@@ -48,7 +48,7 @@ I thrive on problem-solving and approach challenges with a determined, never-giv
 ###
 ## 📂 Projects
 
-### 1. Availability-Accessibility-and-Inequalities-of-WASH-Services-in-Indian-Metro-Cities]([https://github.com/username/project1](https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities))
+### 1. Availability-Accessibility-and-Inequalities-of-WASH-Services-in-Indian-Metro-Cities](https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities)
    **Description:** This paper focuses on the availability and accessibility of water, sanitation, and hygiene (WASH) in six major Indian cities: Mumbai, Delhi, Chennai, Bangalore, Kolkata, and Hyderabad, based on data from the India Human Development Survey (IHDS) conducted in 2004-05 and 2011-12. 
 
 
