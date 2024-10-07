@@ -3,10 +3,9 @@
 <h1 align="center" style="margin-bottom: 0;">I'm Ayushman</h1>
 <h2 align="center">Data Science Student and Philomath</h2>
 <h4 align="center" style="margin-bottom: 0;">Student at Chennai Mathematical Institute, India</h4>
-<hr style="border: 0; height: 3px; background-color: black;">
 
 
-######
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ayushman-anupam" target="_blank">
@@ -23,13 +22,13 @@
   </a>
 </div>
 
-########
+###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
-########
+###
 
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -38,7 +37,7 @@
 <p>
 I thrive on problem-solving and approach challenges with a determined, never-give-up attitude. With a goal to contribute to organizational growth and success, I aim to address complex challenges, fostering impactful solutions and advancements.</P>
 
-#######
+###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmanghub&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmanghub" /> </p>
 
 
@@ -48,9 +47,9 @@ I thrive on problem-solving and approach challenges with a determined, never-giv
 
 
 
-##########
+###
 
 <h3 align="left">🛠 Language and tools</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-#########
+###
