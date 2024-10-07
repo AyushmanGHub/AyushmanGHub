@@ -2,6 +2,8 @@
 
 <h1 align="center"> I'm Ayushman</h1>
 <h3 align="center">Data Science Student and philomaths</h3>
+<h4 align="center">Student at Chennai Mathematical Institute, India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmanghub&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmanghub" /> </p>
 
