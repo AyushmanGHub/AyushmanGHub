@@ -53,7 +53,7 @@
 
 #
 #
- <a href="https://github.com/AyushmanGHub/AyushmanGhub.github.io/blob/main/Ayushman%20Official%20CMI%20CV.pdf" target="_blank">Resume</a>
+ <h3 href="https://github.com/AyushmanGHub/AyushmanGhub.github.io/blob/main/Ayushman%20Official%20CMI%20CV.pdf" target="_blank">Resume</h3>
 
 
 ###
