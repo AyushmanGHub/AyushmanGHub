@@ -21,12 +21,11 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
 </div>
-#
+
 
 <a href="https://github.com/AyushmanGHub/AyushmanGhub.github.io/blob/main/Ayushman%20Official%20CMI%20CV.pdf" target="_blank">
-  <i class="fa fa-user-tie" aria-hidden="true"></i> My Resume
+  <i class="fa fa-user-tie" aria-hidden="true"></i> ----- My Resume -----
 </a>
-###
 
 
 <h3 align="left">👩‍💻  About Me</h3>
