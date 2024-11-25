@@ -24,7 +24,7 @@
 
 
 
-  # [<i class="fas fa-user-tie"></i> **--- My Resume ---**](https://github.com/AyushmanGHub/AyushmanGhub.github.io/blob/main/Ayushman%20Official%20CMI%20CV.pdf)
+  # 🚶 [<i class="fas fa-user-tie"></i> **--- My Resume ---**](https://github.com/AyushmanGHub/AyushmanGhub.github.io/blob/main/Ayushman%20Official%20CMI%20CV.pdf)
 
 
 
