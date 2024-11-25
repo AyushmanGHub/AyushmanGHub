@@ -27,8 +27,13 @@
      target="_blank" 
      style="font-size: 1.5rem; text-decoration: none; color: black;">
     <i class="fas fa-user-tie" aria-hidden="true"></i> 
-    <b>My Resume</b>
+    <b>-- My Resume --</b>
   </a>
+
+  ## [<i class="fas fa-user-tie"></i> **My Resume**](https://github.com/AyushmanGHub/AyushmanGhub.github.io/blob/main/Ayushman%20Official%20CMI%20CV.pdf)
+
+> Click the link above to view my official resume.
+
 
 
 <h3 align="left">👩‍💻  About Me</h3>
