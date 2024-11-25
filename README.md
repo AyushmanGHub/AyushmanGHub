@@ -23,9 +23,12 @@
 </div>
 
 
-<a href="https://github.com/AyushmanGHub/AyushmanGhub.github.io/blob/main/Ayushman%20Official%20CMI%20CV.pdf" target="_blank">
-  <i class="fa fa-user-tie" aria-hidden="true"></i> ----- My Resume -----
-</a>
+  <a href="https://github.com/AyushmanGHub/AyushmanGhub.github.io/blob/main/Ayushman%20Official%20CMI%20CV.pdf" 
+     target="_blank" 
+     style="font-size: 1.5rem; text-decoration: none; color: black;">
+    <i class="fas fa-user-tie" aria-hidden="true"></i> 
+    <b>My Resume</b>
+  </a>
 
 
 <h3 align="left">👩‍💻  About Me</h3>
