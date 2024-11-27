@@ -44,8 +44,11 @@
 ###
 ## 📂 Projects
 
-### 1. [Availability-Accessibility-and-Inequalities-of-WASH-Services-in-Indian-Metro-Cities](https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities)
-   **Description:** This paper focuses on the availability and accessibility of water, sanitation, and hygiene (WASH) in six major Indian cities: Mumbai, Delhi, Chennai, Bangalore, Kolkata, and Hyderabad, based on data from the India Human Development Survey (IHDS) conducted in 2004-05 and 2011-12. 
+### * [Heartbeat Sentinel - Decoding and Predicting Heart Failure](https://github.com/AyushmanGHub/Heartbeat-Sentinel_Decoding-and-Predicting-Heart-Failure/tree/main)
+### * [Chennai Temperature and Precipitation Forecasting](https://github.com/AyushmanGHub/Daily-Temperature-Prediction-of-Chennai)
+### * [From Data to Dwellings: Decoding Amsterdam's Housing Prices](https://github.com/AyushmanGHub/Amsterdam-House-Price-Analysis-and-Prediction)
+### * [Availability-Accessibility-and-Inequalities-of-WASH-Services-in-Indian-Metro-Cities](https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities)
+
 
 
 ###
