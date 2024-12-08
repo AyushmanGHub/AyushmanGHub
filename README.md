@@ -46,6 +46,7 @@
 
 ### * [Heartbeat Sentinel - Decoding and Predicting Heart Failure](https://github.com/AyushmanGHub/Heartbeat-Sentinel_Decoding-and-Predicting-Heart-Failure/tree/main)
 ### * [Chennai Temperature and Precipitation Forecasting](https://github.com/AyushmanGHub/Daily-Temperature-Prediction-of-Chennai)
+### * [NextBuy-Predicting your next perfect purchase](https://github.com/AyushmanGHub/NextBuy-Predicting-your-next-perfect-purchase)
 ### * [From Data to Dwelling : Predicting Housing Prices](https://github.com/AyushmanGHub/From-Data-to-Dwelling-Predicting-Housing-Prices)
 ### * [From Data to Dwellings: Decoding Amsterdam's Housing Prices ](https://github.com/AyushmanGHub/From-Data-to-Dwellings-Decoding-Amsterdam-s-Housing-Prices)
 ### * [Availability-Accessibility-and-Inequalities-of-WASH-Services-in-Indian-Metro-Cities](https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities)
