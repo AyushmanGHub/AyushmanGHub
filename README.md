@@ -44,6 +44,7 @@
 ###
 ## 📂 Projects
 
+### * [ClusterCart: Unveiling Customer through Data](https://github.com/AyushmanGHub/ClusterCart-Unveiling-Customer-through-Data)
 ### * [Heartbeat Sentinel - Decoding and Predicting Heart Failure](https://github.com/AyushmanGHub/Heartbeat-Sentinel_Decoding-and-Predicting-Heart-Failure/tree/main)
 ### * [Chennai Temperature and Precipitation Forecasting](https://github.com/AyushmanGHub/Daily-Temperature-Prediction-of-Chennai)
 ### * [NextBuy-Predicting your next perfect purchase](https://github.com/AyushmanGHub/NextBuy-Predicting-your-next-perfect-purchase)
