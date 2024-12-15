@@ -37,8 +37,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmanghub&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmanghub" /> </p>
 
 
--🔭 I’m working on **Time Series Project for Chennai temperature forecast**<br>
--📚 I'm currently learning **Data Structure and Algorithm** and **Time Series Forecasting** <br>
+-🔭 I’m working on **NLP Project**<br>
+-📚 I'm currently learning ** Natural Language Processing** <br>
 -⚡ In my free time I like to read Mangas, Novels and watch anime. Apart from it as a hobby I like to Cooking and Teaching</p>
 
 ###
