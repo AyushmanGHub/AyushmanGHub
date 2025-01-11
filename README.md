@@ -44,6 +44,7 @@
 ###
 ## 📂 Projects
 
+### * [CreditRisk: Predicting Borrower Reliability](https://github.com/AyushmanGHub/CreditRisk-Predicting-Borrower-Reliability)
 ### * [ChurnPredict: Unlocking Subscription Insight](https://github.com/AyushmanGHub/ChurnPredict-Unlocking-Subscription-Insights)
 ### * [ClusterCart: Unveiling Customer through Data](https://github.com/AyushmanGHub/ClusterCart-Unveiling-Customer-through-Data)
 ### * [Heartbeat Sentinel - Decoding and Predicting Heart Failure](https://github.com/AyushmanGHub/Heartbeat-Sentinel_Decoding-and-Predicting-Heart-Failure/tree/main)
