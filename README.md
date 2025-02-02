@@ -55,7 +55,7 @@
 ### * [Availability-Accessibility-and-Inequalities-of-WASH-Services-in-Indian-Metro-Cities](https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities)
 
 <div align="center">
-  <a href="https://github.com/AyushmanGHub/CreditRisk-Predicting-Borrower-Reliability" target="_blank" style="text-decoration: none;">
+# <a href="https://github.com/AyushmanGHub/CreditRisk-Predicting-Borrower-Reliability" target="_blank" style="text-decoration: none;">
     <span style="display: inline-block; background-color: #4CAF50; color: white; padding: 15px 32px; font-size: 16px; border-radius: 8px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">CreditRisk: Predicting Borrower Reliability</span>
   </a>
   <a href="https://github.com/AyushmanGHub/ChurnPredict-Unlocking-Subscription-Insights" target="_blank" style="text-decoration: none;">
