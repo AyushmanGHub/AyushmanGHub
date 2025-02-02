@@ -57,6 +57,29 @@
 </div>
 
 
+<div align="center">
+  <p style="font-size: 28px; margin: 10px;">
+    <a href="https://github.com/AyushmanGHub/CreditRisk-Predicting-Borrower-Reliability" style="text-decoration: none; color: #000;">CreditRisk: Predicting Borrower Reliability</a>
+  </p>
+  <p style="font-size: 28px; margin: 10px;">
+    <a href="https://github.com/AyushmanGHub/ChurnPredict-Unlocking-Subscription-Insights" style="text-decoration: none; color: #000;">ChurnPredict: Unlocking Subscription Insight</a>
+  </p>
+  <p style="font-size: 28px; margin: 10px;">
+    <a href="https://github.com/AyushmanGHub/ClusterCart-Unveiling-Customer-through-Data" style="text-decoration: none; color: #000;">ClusterCart: Unveiling Customer through Data</a>
+  </p>
+  <p style="font-size: 28px; margin: 10px;">
+    <a href="https://github.com/AyushmanGHub/Heartbeat-Sentinel_Decoding-and-Predicting-Heart-Failure/tree/main" style="text-decoration: none; color: #000;">Heartbeat Sentinel - Decoding and Predicting Heart Failure</a>
+  </p>
+  <p style="font-size: 28px; margin: 10px;">
+    <a href="https://github.com/AyushmanGHub/Daily-Temperature-Prediction-of-Chennai" style="text-decoration: none; color: #000;">Chennai Temperature and Precipitation Forecasting</a>
+  </p>
+  <p style="font-size: 28px; margin: 10px;">
+    <a href="https://github.com/AyushmanGHub/From-Data-to-Dwellings-Decoding-Amsterdam-s-Housing-Prices" style="text-decoration: none; color: #000;">From Data to Dwellings: Decoding Amsterdam's Housing Prices</a>
+  </p>
+  <p style="font-size: 28px; margin: 10px;">
+    <a href="https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities" style="text-decoration: none; color: #000;">Availability-Accessibility-and-Inequalities-of-WASH-Services-in-Indian-Metro-Cities</a>
+  </p>
+</div>
 
 ###
 
