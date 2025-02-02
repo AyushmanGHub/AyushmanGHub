@@ -2,6 +2,9 @@
 <h2 align="center">Data Science Student and Philomath</h2>
 <h4 align="center" style="margin-bottom: 0;">Student at Chennai Mathematical Institute, India</h4>
 
+<h1 align="center" style="margin-bottom: 0; padding-bottom: 0;">Hi there, 👋 I'm Ayushman</h1>
+<h2 align="center" style="margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0;">Data Science Student and Philomath</h2>
+<h4 align="center" style="margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0;">Student at Chennai Mathematical Institute, India</h4>
 
 ###
 
