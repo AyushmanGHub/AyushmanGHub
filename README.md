@@ -29,6 +29,14 @@
 ## 🚶 [<i class="fas fa-user-tie"></i> **--- Link to My Resume ---**](https://github.com/AyushmanGHub/AyushmanGhub.github.io/blob/main/Ayushman%20CMI%20Resume.pdf)
 ##  ----------------------------------
 
+<div align="center">
+  <a href="https://github.com/AyushmanGHub/AyushmanGhub.github.io/blob/main/Ayushman%20CMI%20Resume.pdf" target="_blank" rel="noopener noreferrer">
+    <button style="background-color: #4CAF50; color: white; border: none; padding: 15px 32px; font-size: 16px; cursor: pointer; border-radius: 8px; display: flex; align-items: center; transition: background-color 0.3s, transform 0.3s;">
+      <i class="fas fa-file-alt" style="margin-right: 10px; font-size: 20px;"></i> 
+      <strong>View My Resume</strong>
+    </button>
+  </a>
+</div>
 
 
 
