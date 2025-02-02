@@ -47,17 +47,6 @@
 ## 📂 Projects
 
 <div align="center">
-  <h2><a href="https://github.com/AyushmanGHub/CreditRisk-Predicting-Borrower-Reliability" style="font-size: 24px; text-decoration: none; color: #000;">'CreditRisk: Predicting Borrower Reliability'</a></h2>
-  <h2><a href="https://github.com/AyushmanGHub/ChurnPredict-Unlocking-Subscription-Insights" style="font-size: 24px; text-decoration: none; color: #000;">ChurnPredict: Unlocking Subscription Insight</a></h2>
-  <h2><a href="https://github.com/AyushmanGHub/ClusterCart-Unveiling-Customer-through-Data" style="font-size: 24px; text-decoration: none; color: #000;">ClusterCart: Unveiling Customer through Data</a></h2>
-  <h2><a href="https://github.com/AyushmanGHub/Heartbeat-Sentinel_Decoding-and-Predicting-Heart-Failure/tree/main" style="font-size: 24px; text-decoration: none; color: #000;">Heartbeat Sentinel - Decoding and Predicting Heart Failure</a></h2>
-  <h2><a href="https://github.com/AyushmanGHub/Daily-Temperature-Prediction-of-Chennai" style="font-size: 24px; text-decoration: none; color: #000;">Chennai Temperature and Precipitation Forecasting</a></h2>
-  <h2><a href="https://github.com/AyushmanGHub/From-Data-to-Dwellings-Decoding-Amsterdam-s-Housing-Prices" style="font-size: 24px; text-decoration: none; color: #000;">From Data to Dwellings: Decoding Amsterdam's Housing Prices</a></h2>
-  <h2><a href="https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities" style="font-size: 24px; text-decoration: none; color: #000;">Availability-Accessibility-and-Inequalities-of-WASH-Services-in-Indian-Metro-Cities</a></h2>
-</div>
-
-
-<div align="center">
   <p style="font-size: 28px; margin: 10px;">
     <a href="https://github.com/AyushmanGHub/CreditRisk-Predicting-Borrower-Reliability" style="text-decoration: none; color: #000;">CreditRisk: Predicting Borrower Reliability</a>
   </p>
