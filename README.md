@@ -31,7 +31,7 @@
 
 
 <h3 align="left">👩‍💻  About Me</h3>
-<P>I am a Data Science student with a deep passion for learning and exploration. Coming from a strong Mathematics background, I have developed a keen interest in areas such as Statistics, Probability, Statistical Inference, Graph Theory, and Economics. I'm particularly enthusiastic about applying my knowledge in data-driven fields like machine learning, statistical modelling, and data visualization.I thrive on solving complex problems and approach every challenge with persistence and a never-give-up attitude.With a goal to contribute to organizational growth and success, I aim to address complex challenges, fostering impactful solutions and advancements.</P>
+<P>I am a Data Science student with a strong passion for learning and exploration. With a background in Mathematics, I have developed a keen interest in areassuch as Statistics, Probability, Graph Theory, and Economics. I have worked on ML projects involving Recommender Systems, Credit Risk Modeling, and an RShiny Dashboard for analyzing Amsterdam house prices</P>
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmanghub&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmanghub" /> </p>
