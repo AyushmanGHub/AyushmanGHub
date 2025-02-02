@@ -8,15 +8,19 @@
 ###
 
 <div align="center">
-  <h2><a href="https://github.com/AyushmanGHub/CreditRisk-Predicting-Borrower-Reliability" style="font-size: 24px; text-decoration: none; color: #000;">CreditRisk: Predicting Borrower Reliability</a></h2>
-  <h2><a href="https://github.com/AyushmanGHub/ChurnPredict-Unlocking-Subscription-Insights" style="font-size: 24px; text-decoration: none; color: #000;">ChurnPredict: Unlocking Subscription Insight</a></h2>
-  <h2><a href="https://github.com/AyushmanGHub/ClusterCart-Unveiling-Customer-through-Data" style="font-size: 24px; text-decoration: none; color: #000;">ClusterCart: Unveiling Customer through Data</a></h2>
-  <h2><a href="https://github.com/AyushmanGHub/Heartbeat-Sentinel_Decoding-and-Predicting-Heart-Failure/tree/main" style="font-size: 24px; text-decoration: none; color: #000;">Heartbeat Sentinel - Decoding and Predicting Heart Failure</a></h2>
-  <h2><a href="https://github.com/AyushmanGHub/Daily-Temperature-Prediction-of-Chennai" style="font-size: 24px; text-decoration: none; color: #000;">Chennai Temperature and Precipitation Forecasting</a></h2>
-  <h2><a href="https://github.com/AyushmanGHub/From-Data-to-Dwellings-Decoding-Amsterdam-s-Housing-Prices" style="font-size: 24px; text-decoration: none; color: #000;">From Data to Dwellings: Decoding Amsterdam's Housing Prices</a></h2>
-  <h2><a href="https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities" style="font-size: 24px; text-decoration: none; color: #000;">Availability-Accessibility-and-Inequalities-of-WASH-Services-in-Indian-Metro-Cities</a></h2>
+  <a href="https://www.linkedin.com/in/ayushman-anupam" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://ayushmanghub.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo" />
+  </a>
+  <a href="mailto: ayushmantutu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+  </a>
+  <a href="https://x.com/AyurAyushman" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  </a>
 </div>
-
 
 
 
@@ -50,6 +54,15 @@
 ### * [From Data to Dwellings: Decoding Amsterdam's Housing Prices ](https://github.com/AyushmanGHub/From-Data-to-Dwellings-Decoding-Amsterdam-s-Housing-Prices)
 ### * [Availability-Accessibility-and-Inequalities-of-WASH-Services-in-Indian-Metro-Cities](https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities)
 
+<div align="center">
+  <h2><a href="https://github.com/AyushmanGHub/CreditRisk-Predicting-Borrower-Reliability" style="font-size: 24px; text-decoration: none; color: #000;">CreditRisk: Predicting Borrower Reliability</a></h2>
+  <h2><a href="https://github.com/AyushmanGHub/ChurnPredict-Unlocking-Subscription-Insights" style="font-size: 24px; text-decoration: none; color: #000;">ChurnPredict: Unlocking Subscription Insight</a></h2>
+  <h2><a href="https://github.com/AyushmanGHub/ClusterCart-Unveiling-Customer-through-Data" style="font-size: 24px; text-decoration: none; color: #000;">ClusterCart: Unveiling Customer through Data</a></h2>
+  <h2><a href="https://github.com/AyushmanGHub/Heartbeat-Sentinel_Decoding-and-Predicting-Heart-Failure/tree/main" style="font-size: 24px; text-decoration: none; color: #000;">Heartbeat Sentinel - Decoding and Predicting Heart Failure</a></h2>
+  <h2><a href="https://github.com/AyushmanGHub/Daily-Temperature-Prediction-of-Chennai" style="font-size: 24px; text-decoration: none; color: #000;">Chennai Temperature and Precipitation Forecasting</a></h2>
+  <h2><a href="https://github.com/AyushmanGHub/From-Data-to-Dwellings-Decoding-Amsterdam-s-Housing-Prices" style="font-size: 24px; text-decoration: none; color: #000;">From Data to Dwellings: Decoding Amsterdam's Housing Prices</a></h2>
+  <h2><a href="https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities" style="font-size: 24px; text-decoration: none; color: #000;">Availability-Accessibility-and-Inequalities-of-WASH-Services-in-Indian-Metro-Cities</a></h2>
+</div>
 
 
 
