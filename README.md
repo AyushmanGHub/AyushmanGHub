@@ -50,59 +50,57 @@ I'm currently interning at **Algo Labs**, building AI-powered Lecture Agents tha
 
 ## 📌 Major Projects
 
-| Project | Description | Tools |
-|---------|-------------|-------|
-| [**Fiedler's Spectral Graph Partitioning**](https://github.com/AyushmanGHub/Fiedlers-Spectral-Graph-Partitioning-Paper) | Partitioned graphs using Laplacian matrix, Fiedler value & vector for network analysis | Python, Jupyter |
-| [**CreditRisk: Borrower Reliability**](https://github.com/AyushmanGHub/CreditRisk-Predicting-Borrower-Reliability) | Credit default prediction using binary classification with 0.97 accuracy | Python, ML |
-| [**NextBuy: E-Commerce Recommender**](https://github.com/AyushmanGHub/NextBuy-Predicting-your-next-perfect-purchase) | Content-based & Collaborative Filtering recommender system | Python, ML, EDA |
-| [**ChurnPredict**](https://github.com/AyushmanGHub/ChurnPredict-Unlocking-Subscription-Insights) | Churn prediction using Logistic Regression, Random Forest, XGBoost | Python, ML |
-| [**Heartbeat Sentinel**](https://github.com/AyushmanGHub/Heartbeat-Sentinel_Decoding-and-Predicting-Heart-Failure) | Heart failure prediction with 90% accuracy | Streamlit, XGBoost |
-| [**Amsterdam Housing Prices (RShiny)**](https://github.com/AyushmanGHub/From-Data-to-Dwellings-Decoding-Amsterdam-s-Housing-Prices) | Predictive housing model using R-Shiny and EDA | R, R-Shiny |
-| [**Chennai Weather Forecasting**](https://github.com/AyushmanGHub/Daily-Temperature-Prediction-of-Chennai) | Time-series forecasting with LGBMRegressor | Python, ML |
-| [**WASH Inequality Analysis**](https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities) | Analyzed water & sanitation access inequality using Gini, Theil, Atkinson indices | Python, Statistics |
+<table>
+  <tr>
+    <td>
+      <b><a href="https://github.com/AyushmanGHub/Fiedlers-Spectral-Graph-Partitioning-Paper">Fiedler's Spectral Graph Partitioning</a></b><br>
+      Partitioned graphs using Laplacian matrix, Fiedler value & vector for network analysis.<br>
+      <i>Python, Jupyter</i>
+    </td>
+    <td>
+      <b><a href="https://github.com/AyushmanGHub/CreditRisk-Predicting-Borrower-Reliability">CreditRisk: Borrower Reliability</a></b><br>
+      Credit default prediction using binary classification with 0.97 accuracy.<br>
+      <i>Python, ML</i>
+    </td>
+    <td>
+      <b><a href="https://github.com/AyushmanGHub/NextBuy-Predicting-your-next-perfect-purchase">NextBuy: E-Commerce Recommender</a></b><br>
+      Content-based & Collaborative Filtering recommender system.<br>
+      <i>Python, ML, EDA</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/AyushmanGHub/ChurnPredict-Unlocking-Subscription-Insights">ChurnPredict</a></b><br>
+      Churn prediction using Logistic Regression, Random Forest, XGBoost.<br>
+      <i>Python, ML</i>
+    </td>
+    <td>
+      <b><a href="https://github.com/AyushmanGHub/Heartbeat-Sentinel_Decoding-and-Predicting-Heart-Failure">Heartbeat Sentinel</a></b><br>
+      Heart failure prediction with 90% accuracy.<br>
+      <i>Streamlit, XGBoost</i>
+    </td>
+    <td>
+      <b><a href="https://github.com/AyushmanGHub/From-Data-to-Dwellings-Decoding-Amsterdam-s-Housing-Prices">Amsterdam Housing Prices (RShiny)</a></b><br>
+      Predictive housing model using R-Shiny and EDA.<br>
+      <i>R, R-Shiny</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/AyushmanGHub/Daily-Temperature-Prediction-of-Chennai">Chennai Weather Forecasting</a></b><br>
+      Time-series forecasting with LGBMRegressor.<br>
+      <i>Python, ML</i>
+    </td>
+    <td>
+      <b><a href="https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities">WASH Inequality Analysis</a></b><br>
+      Analyzed water & sanitation access inequality using Gini, Theil, Atkinson indices.<br>
+      <i>Python, Statistics</i>
+    </td>
+    <td>
+      <b><a href="https://github.com/AyushmanGHub/APortfolio/tree/master">Streamlit Portfolio with Agentic AI</a></b><br>
+      Fully responsive AI-powered portfolio using Streamlit, LangGraph, Groq LLM.<br>
+      <i>Python, Streamlit, Agentic AI</i>
+    </td>
+  </tr>
+</table>
 
-## 📂 Projects
-
-<div align="center">
-
-  <p style="font-size: 28px; margin: 10px;">
-    <a href="https://github.com/AyushmanGHub/APortfolio/tree/master" style="text-decoration: none; color: #000;">Streamlit Portfolio Website with Agentic AI</a>
-  </p>
-
-  <p style="font-size: 28px; margin: 10px;">
-    <a href="https://github.com/AyushmanGHub/CreditRisk-Predicting-Borrower-Reliability" style="text-decoration: none; color: #000;">CreditRisk: Predicting Borrower Reliability</a>
-  </p>
-
-  <p style="font-size: 28px; margin: 10px;">
-    <a href="https://github.com/AyushmanGHub/ChurnPredict-Unlocking-Subscription-Insights" style="text-decoration: none; color: #000;">ChurnPredict: Unlocking Subscription Insight</a>
-  </p>
-
-  <p style="font-size: 28px; margin: 10px;">
-    <a href="https://github.com/AyushmanGHub/ClusterCart-Unveiling-Customer-through-Data" style="text-decoration: none; color: #000;">ClusterCart: Unveiling Customer through Data</a>
-  </p>
-
-  <p style="font-size: 28px; margin: 10px;">
-    <a href="https://github.com/AyushmanGHub/Heartbeat-Sentinel_Decoding-and-Predicting-Heart-Failure/tree/main" style="text-decoration: none; color: #000;">Heartbeat Sentinel - Decoding and Predicting Heart Failure</a>
-  </p>
-
-  <p style="font-size: 28px; margin: 10px;">
-    <a href="https://github.com/AyushmanGHub/Daily-Temperature-Prediction-of-Chennai" style="text-decoration: none; color: #000;">Chennai Temperature and Precipitation Forecasting</a>
-  </p>
-
-  <p style="font-size: 28px; margin: 10px;">
-    <a href="https://github.com/AyushmanGHub/From-Data-to-Dwellings-Decoding-Amsterdam-s-Housing-Prices" style="text-decoration: none; color: #000;">From Data to Dwellings: Decoding Amsterdam's Housing Prices</a>
-  </p>
-
-  <p style="font-size: 28px; margin: 10px;">
-    <a href="https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities" style="text-decoration: none; color: #000;">Availability-Accessibility-and-Inequalities-of-WASH-Services-in-Indian-Metro-Cities</a>
-  </p>
-
-</div>
-
-  </p>
-
-  <p style="font-size: 28px; margin: 10px;">
-    <a href="https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities" style="text-decoration: none; color: #000;">Availability-Accessibility-and-Inequalities-of-WASH-Services-in-Indian-Metro-Cities</a>
-  </p>
-
-</div>
