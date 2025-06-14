@@ -24,8 +24,6 @@
 </div>
 
 
----
-
 ## 🧑‍💻 About Me
 
 I am a Data Science student with a strong mathematical background and a deep passion for AI, ML, and agentic systems. My expertise ranges across:
@@ -38,7 +36,7 @@ I am a Data Science student with a strong mathematical background and a deep pas
 
 I'm currently interning at **Algo Labs**, building AI-powered Lecture Agents that enhance learning experiences via LangGraph and API-integrated RAG pipelines.
 
----
+
 
 ## 🔭 Current Focus
 
@@ -46,12 +44,16 @@ I'm currently interning at **Algo Labs**, building AI-powered Lecture Agents tha
 - Exploring **Word of Finance and Credit**
 - Working on **AI Agents for Education**
 
----
 
 ## 📌 Major Projects
 
 <table>
   <tr>
+    <td>
+      <b><a href="https://github.com/AyushmanGHub/APortfolio/tree/master">Streamlit Portfolio with Agentic AI</a></b><br>
+      Fully responsive AI-powered portfolio using Streamlit, LangGraph, Groq LLM.<br>
+      <i>Python, Streamlit, Agentic AI</i>
+    </td>
     <td>
       <b><a href="https://github.com/AyushmanGHub/Fiedlers-Spectral-Graph-Partitioning-Paper">Fiedler's Spectral Graph Partitioning</a></b><br>
       Partitioned graphs using Laplacian matrix, Fiedler value & vector for network analysis.<br>
@@ -62,13 +64,13 @@ I'm currently interning at **Algo Labs**, building AI-powered Lecture Agents tha
       Credit default prediction using binary classification with 0.97 accuracy.<br>
       <i>Python, ML</i>
     </td>
+  </tr>
+  <tr>
     <td>
       <b><a href="https://github.com/AyushmanGHub/NextBuy-Predicting-your-next-perfect-purchase">NextBuy: E-Commerce Recommender</a></b><br>
       Content-based & Collaborative Filtering recommender system.<br>
       <i>Python, ML, EDA</i>
     </td>
-  </tr>
-  <tr>
     <td>
       <b><a href="https://github.com/AyushmanGHub/ChurnPredict-Unlocking-Subscription-Insights">ChurnPredict</a></b><br>
       Churn prediction using Logistic Regression, Random Forest, XGBoost.<br>
@@ -79,13 +81,13 @@ I'm currently interning at **Algo Labs**, building AI-powered Lecture Agents tha
       Heart failure prediction with 90% accuracy.<br>
       <i>Streamlit, XGBoost</i>
     </td>
+  </tr>
+  <tr>
     <td>
       <b><a href="https://github.com/AyushmanGHub/From-Data-to-Dwellings-Decoding-Amsterdam-s-Housing-Prices">Amsterdam Housing Prices (RShiny)</a></b><br>
       Predictive housing model using R-Shiny and EDA.<br>
       <i>R, R-Shiny</i>
     </td>
-  </tr>
-  <tr>
     <td>
       <b><a href="https://github.com/AyushmanGHub/Daily-Temperature-Prediction-of-Chennai">Chennai Weather Forecasting</a></b><br>
       Time-series forecasting with LGBMRegressor.<br>
@@ -95,11 +97,6 @@ I'm currently interning at **Algo Labs**, building AI-powered Lecture Agents tha
       <b><a href="https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities">WASH Inequality Analysis</a></b><br>
       Analyzed water & sanitation access inequality using Gini, Theil, Atkinson indices.<br>
       <i>Python, Statistics</i>
-    </td>
-    <td>
-      <b><a href="https://github.com/AyushmanGHub/APortfolio/tree/master">Streamlit Portfolio with Agentic AI</a></b><br>
-      Fully responsive AI-powered portfolio using Streamlit, LangGraph, Groq LLM.<br>
-      <i>Python, Streamlit, Agentic AI</i>
     </td>
   </tr>
 </table>
