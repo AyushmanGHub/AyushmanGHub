@@ -17,6 +17,13 @@
   </a>
 </p>
 
+<div align="center" style="margin-top: 20px;">
+  <a href="https://drive.google.com/file/d/13fhhQG4FL9JnFIW3oZwbtJI0Yd4BzzF7/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/📄 View My Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume">
+  </a>
+</div>
+
+
 ---
 
 ## 🧑‍💻 About Me
@@ -38,12 +45,6 @@ I'm currently interning at **Algo Labs**, building AI-powered Lecture Agents tha
 - Building **Agentic AI Systems** with advanced orchestration
 - Exploring **Word of Finance and Credit**
 - Working on **AI Agents for Education**
-
----
-
-## 📄 Resume
-
-📄 [View My Resume Here]([https://github.com/AyushmanGHub/AyushmanGhub.github.io/blob/main/Ayushman%20CMI%20Resume.pdf](https://drive.google.com/file/d/13fhhQG4FL9JnFIW3oZwbtJI0Yd4BzzF7/view?usp=drive_link))
 
 ---
 
