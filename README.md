@@ -60,3 +60,56 @@ I'm currently interning at **Algo Labs**, building AI-powered Lecture Agents tha
 | [**Amsterdam Housing Prices (RShiny)**](https://github.com/AyushmanGHub/From-Data-to-Dwellings-Decoding-Amsterdam-s-Housing-Prices) | Predictive housing model using R-Shiny and EDA | R, R-Shiny |
 | [**Chennai Weather Forecasting**](https://github.com/AyushmanGHub/Daily-Temperature-Prediction-of-Chennai) | Time-series forecasting with LGBMRegressor | Python, ML |
 | [**WASH Inequality Analysis**](https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities) | Analyzed water & sanitation access inequality using Gini, Theil, Atkinson indices | Python, Statistics |
+
+
+## 📂 Projects
+
+<div align="center">
+  
+  <p style="font-size: 28px; margin: 10px;">
+    <a href="https://github.com/AyushmanGHub/APortfolio/tree/master" style="text-decoration: none; color: #000;">
+    🌐 Streamlit Portfolio Website with Agentic AI Feature</a>
+  </p>
+  <p style="margin: 5px;">
+    🔗 <a href="https://ayushmanportfolio.streamlit.app/" target="_blank">Live Website</a> | 
+    <a href="https://github.com/AyushmanGHub/APortfolio/tree/master" target="_blank">GitHub Repo</a>
+  </p>
+  <p style="margin: 5px;">
+    Designed and developed a fully responsive Streamlit-based personal portfolio website integrated with an Agentic AI-powered assistant — <b>ResAgent</b>. 
+    The assistant leverages LLMs to answer queries, fetch recent data, and provide interactive conversations within the portfolio.
+    Included dynamic project pages, certification highlights, and AI-powered blog integration.
+  </p>
+  <p><b>Skills & Technologies:</b> Python, Streamlit, LangGraph, Groq LLM, Agentic AI, RAG, HTML, CSS, Groq API</p>
+  <p><b>Date:</b> June 2025</p>
+
+  ---
+  
+  <p style="font-size: 28px; margin: 10px;">
+    <a href="https://github.com/AyushmanGHub/CreditRisk-Predicting-Borrower-Reliability" style="text-decoration: none; color: #000;">CreditRisk: Predicting Borrower Reliability</a>
+  </p>
+  
+  <p style="font-size: 28px; margin: 10px;">
+    <a href="https://github.com/AyushmanGHub/ChurnPredict-Unlocking-Subscription-Insights" style="text-decoration: none; color: #000;">ChurnPredict: Unlocking Subscription Insight</a>
+  </p>
+  
+  <p style="font-size: 28px; margin: 10px;">
+    <a href="https://github.com/AyushmanGHub/ClusterCart-Unveiling-Customer-through-Data" style="text-decoration: none; color: #000;">ClusterCart: Unveiling Customer through Data</a>
+  </p>
+
+  <p style="font-size: 28px; margin: 10px;">
+    <a href="https://github.com/AyushmanGHub/Heartbeat-Sentinel_Decoding-and-Predicting-Heart-Failure/tree/main" style="text-decoration: none; color: #000;">Heartbeat Sentinel - Decoding and Predicting Heart Failure</a>
+  </p>
+
+  <p style="font-size: 28px; margin: 10px;">
+    <a href="https://github.com/AyushmanGHub/Daily-Temperature-Prediction-of-Chennai" style="text-decoration: none; color: #000;">Chennai Temperature and Precipitation Forecasting</a>
+  </p>
+
+  <p style="font-size: 28px; margin: 10px;">
+    <a href="https://github.com/AyushmanGHub/From-Data-to-Dwellings-Decoding-Amsterdam-s-Housing-Prices" style="text-decoration: none; color: #000;">From Data to Dwellings: Decoding Amsterdam's Housing Prices</a>
+  </p>
+
+  <p style="font-size: 28px; margin: 10px;">
+    <a href="https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities" style="text-decoration: none; color: #000;">Availability-Accessibility-and-Inequalities-of-WASH-Services-in-Indian-Metro-Cities</a>
+  </p>
+
+</div>
