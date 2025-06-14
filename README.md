@@ -59,7 +59,3 @@ I'm currently interning at **Algo Labs**, building AI-powered Lecture Agents tha
 | [**Amsterdam Housing Prices (RShiny)**](https://github.com/AyushmanGHub/From-Data-to-Dwellings-Decoding-Amsterdam-s-Housing-Prices) | Predictive housing model using R-Shiny and EDA | R, R-Shiny |
 | [**Chennai Weather Forecasting**](https://github.com/AyushmanGHub/Daily-Temperature-Prediction-of-Chennai) | Time-series forecasting with LGBMRegressor | Python, ML |
 | [**WASH Inequality Analysis**](https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities) | Analyzed water & sanitation access inequality using Gini, Theil, Atkinson indices | Python, Statistics |
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushmanghub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
