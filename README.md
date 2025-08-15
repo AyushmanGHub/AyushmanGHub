@@ -34,7 +34,7 @@ I am a Data Science student with a strong mathematical background and a deep pas
 - 🌐 Graph Theory, Spectral Graph Partitioning, Network Analysis
 - 💻 Python, R, SQL, Streamlit, R-Shiny, Jupyter Notebook
 
-I'm currently interning at **Algo Labs**, building AI-powered Lecture Agents that enhance learning experiences via LangGraph and API-integrated RAG pipelines.
+Currently, I am exploring the world of finance, specifically the role of time series analysis in financial markets, equity, and related domains. ALong, with it I am Working on a Time-Series project to automates real-time stock market analysis anf forecasting some Indian Stocks and Indexes by integrating data fetching, feature engineering, predictive modeling, and visualization.
 
 
 
