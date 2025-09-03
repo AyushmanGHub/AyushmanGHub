@@ -26,7 +26,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a Data Science student with a strong mathematical background and a deep passion for AI, ML, and agentic systems. My expertise ranges across:
+I am a Data Science student with mathematical background and a deep passion for AI, ML, and agentic systems. I'm particularly excited about building intelligent systems that turn data into actionable insights.My expertise ranges across:
 
 - 🧠 AI Agents, LLMs, Agentic AI, Retrieval-Augmented Generation (RAG), LangGraph
 - 🤖 Machine Learning (Supervised & Unsupervised, Forecasting, Churn Prediction, Recommendation Systems)
@@ -34,15 +34,11 @@ I am a Data Science student with a strong mathematical background and a deep pas
 - 🌐 Graph Theory, Spectral Graph Partitioning, Network Analysis
 - 💻 Python, R, SQL, Streamlit, R-Shiny, Jupyter Notebook
 
-Currently, I am exploring the world of finance, specifically the role of time series analysis in financial markets, equity, and related domains. ALong, with it I am Working on a Time-Series project to automates real-time stock market analysis anf forecasting some Indian Stocks and Indexes by integrating data fetching, feature engineering, predictive modeling, and visualization.
-
-
+Currently, I am exploring the world of finance, specifically the role of time series analysis in financial markets, equity, and related domains. ALong, with it I am Working on a Time-Series project to automates real-time stock market analysis and forecasting some Indian Stocks and Indexes by integrating data fetching, feature engineering, predictive modeling, and visualization.
 
 ## 🔭 Current Focus
-
-- Building **Agentic AI Systems** with advanced orchestration
 - Exploring **Word of Finance and Credit**
-- Working on **AI Agents for Education**
+- working on a project that automates real-time stock market forecasting and analysis some Indian Stocks and Indexes by integrating data fetching, feature engineering, predictive modeling, and visualization.
 
 
 ## 📌 Major Projects
