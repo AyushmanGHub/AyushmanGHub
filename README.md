@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/ayushman-anupam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin" />
   </a>
-  <a href="https://ayushmanghub.github.io/" target="_blank">
+  <a href="https://ayushmanportfolio.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white" height="25" alt="portfolio" />
   </a>
   <a href="mailto:ayushmantutu@gmail.com" target="_blank">
