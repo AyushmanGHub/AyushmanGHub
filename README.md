@@ -1,5 +1,5 @@
-<h1 align="center" style="margin-bottom: 0;">👋 Hi, I'm Ayushman Anupam</h1>
-<h3 align="center">Data Science Student | AI & ML Practitioner | Aspiring AI Agent Developer</h3>
+<h1 align="center" style="margin-bottom: 0;">👋 Hi, I'm Ayushman</h1>
+<h3 align="center">Data Science Student | Quant Research | AI & ML Systems | Gen-AI</h3>
 <h4 align="center">M.Sc. Data Science @ Chennai Mathematical Institute | B.Math @ Indian Statistical Institute</h4>
 
 <p align="center">
@@ -26,74 +26,64 @@
 
 ## 🧑‍💻 About Me
 
-I am a Data Science student with mathematical background and a deep passion for AI, ML, and agentic systems. I'm particularly excited about building intelligent systems that turn data into actionable insights.My expertise ranges across:
+Hi, I'm Ayushman Anupam, a Data Science student who loves working with data. I enjoy building data-driven systems and exploring how mathematics, statistics, and AI can be used to solve real-world problems.
 
-- 🧠 AI Agents, LLMs, Agentic AI, Retrieval-Augmented Generation (RAG), LangGraph
-- 🤖 Machine Learning (Supervised & Unsupervised, Forecasting, Churn Prediction, Recommendation Systems)
-- 📊 Data Analysis, Statistical Modeling, Feature Engineering, Predictive Modeling, Deep Learning
-- 🌐 Graph Theory, Spectral Graph Partitioning, Network Analysis
-- 💻 Python, R, SQL, Streamlit, R-Shiny, Jupyter Notebook
+My academic background in mathematics has naturally led me toward areas such as <b>Machine Learning, Statistical Modeling, Graph Theory, and Agentic AI systems</b>. I am particularly interested in designing intelligent systems that can transform complex data into meaningful insights and practical applications.
 
-Currently, I am exploring the world of finance, specifically the role of time series analysis in financial markets, equity, and related domains. ALong, with it I am Working on a Time-Series project to automates real-time stock market analysis and forecasting some Indian Stocks and Indexes by integrating data fetching, feature engineering, predictive modeling, and visualization.
+- **Quantitative Finance** – Statistical Arbitrage, Portfolio Optimization, Time Series Modeling 
+- **Agentic AI & LLM Engineering** – AI Agents, Agentic AI, RAG pipelines, LangGraph  
+- **Machine Learning & AI Systems** – Predictive Modeling, Deep Learning, LLM Applications
+- **Mathematical Modeling** – Graph Theory, Statistical Inference, Optimization
+- **Programming & Technical Tools** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly), R, SQL, LaTeX
+- **Core Competencies** - Data Analysis, Predictive Modeling, Quantitative Research, Statistical Inference, Problem Solving
+- **Tools and Platforms** -Jupyter Notebook, Git & GitHub, Streamlit, R-Shiny, Microsoft Office (Excel, Word, PowerPoint)
 
 ## 🔭 Current Focus
-- Exploring **Word of Finance and Credit** mainly use of time-series in them.
-- working on a project that automates real-time stock market forecasting and analysis some Indian Stocks and Indexes by integrating data fetching, feature engineering, predictive modeling, and visualization.
+Exploring world of finance especially intersection of quantitative finance and machine learning, focusing on topics like time series modeling, portfolio optimization, and statistical arbitrage. My current work involves developing quantitative research projects that apply statistical methods and machine learning to financial markets, including strategies for portfolio construction, risk analysis, and market signal generation.
 
 
-## 📌 Major Projects
 
-<table>
-  <tr>
-    <td>
-      <b><a href="https://github.com/AyushmanGHub/APortfolio/tree/master">Streamlit Portfolio with Agentic AI</a></b><br>
-      Fully responsive AI-powered portfolio using Streamlit, LangGraph, Groq LLM.<br>
-      <i>Python, Streamlit, Agentic AI</i>
-    </td>
-    <td>
-      <b><a href="https://github.com/AyushmanGHub/Fiedlers-Spectral-Graph-Partitioning-Paper">Fiedler's Spectral Graph Partitioning</a></b><br>
-      Partitioned graphs using Laplacian matrix, Fiedler value & vector for network analysis.<br>
-      <i>Python, Jupyter</i>
-    </td>
-    <td>
-      <b><a href="https://github.com/AyushmanGHub/CreditRisk-Predicting-Borrower-Reliability">CreditRisk: Borrower Reliability</a></b><br>
-      Credit default prediction using binary classification with 0.97 accuracy.<br>
-      <i>Python, ML</i>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://github.com/AyushmanGHub/NextBuy-Predicting-your-next-perfect-purchase">NextBuy: E-Commerce Recommender</a></b><br>
-      Content-based & Collaborative Filtering recommender system.<br>
-      <i>Python, ML, EDA</i>
-    </td>
-    <td>
-      <b><a href="https://github.com/AyushmanGHub/ChurnPredict-Unlocking-Subscription-Insights">ChurnPredict</a></b><br>
-      Churn prediction using Logistic Regression, Random Forest, XGBoost.<br>
-      <i>Python, ML</i>
-    </td>
-    <td>
-      <b><a href="https://github.com/AyushmanGHub/Heartbeat-Sentinel_Decoding-and-Predicting-Heart-Failure">Heartbeat Sentinel</a></b><br>
-      Heart failure prediction with 90% accuracy.<br>
-      <i>Streamlit, XGBoost</i>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://github.com/AyushmanGHub/From-Data-to-Dwellings-Decoding-Amsterdam-s-Housing-Prices">Amsterdam Housing Prices (RShiny)</a></b><br>
-      Predictive housing model using R-Shiny and EDA.<br>
-      <i>R, R-Shiny</i>
-    </td>
-    <td>
-      <b><a href="https://github.com/AyushmanGHub/Daily-Temperature-Prediction-of-Chennai">Chennai Weather Forecasting</a></b><br>
-      Time-series forecasting with LGBMRegressor.<br>
-      <i>Python, ML</i>
-    </td>
-    <td>
-      <b><a href="https://github.com/AyushmanGHub/Availability_Accessibility_and_Inequalities_of_WASH_in_Metro-Cities">WASH Inequality Analysis</a></b><br>
-      Analyzed water & sanitation access inequality using Gini, Theil, Atkinson indices.<br>
-      <i>Python, Statistics</i>
-    </td>
-  </tr>
-</table>
+# 📌 Major Projects
+
+## 📈 Quantitative Finance Projects
+
+**Z-Score Alpha – Statistical Arbitrage Strategy**  (currently working)
+Quant research project for identifying mean-reversion opportunities using Z-score signals and time-series analysis.  
+🔗 https://github.com/AyushmanGHub/Z-Score_Alpha-Statistical_Arbitrage_Strategy  
+
+**QuantPulse – Short-term Portfolio Optimizer**  
+Portfolio optimization framework using predictive models and financial time-series data.  
+🔗 https://github.com/AyushmanGHub/QuantPulse_Short-term-Portfolio-Optimizer  
+
+**Minimum Variance Portfolio Optimization**  
+Risk-minimizing portfolio allocation using covariance estimation and mean-variance optimization.  
+🔗 https://github.com/AyushmanGHub/Minimum_Variance_Portfolio_Optimization  
+
+
+## 🤖 AI / Machine Learning Systems
+
+**LectureAI – Agentic AI Tutor**  
+Agentic AI framework that transforms lecture videos into interactive learning experiences.  
+🔗 https://github.com/AyushmanGHub/LectureAI-Agentic-AI_freamework  
+
+**Streamlit Portfolio with AI Assistant**  
+Interactive portfolio with an integrated AI agent for answering queries.  
+🔗 https://github.com/AyushmanGHub/APortfolio  
+
+**CreditRisk – Borrower Default Prediction**  
+Binary classification model for credit risk analysis.  
+🔗 https://github.com/AyushmanGHub/CreditRisk-Predicting-Borrower-Reliability  
+
+**Heartbeat Sentinel – Heart Failure Prediction**  
+Healthcare risk prediction system with ML models and Streamlit deployment.<br>
+🔗 https://github.com/AyushmanGHub/Heartbeat-Sentinel_Decoding-and-Predicting-Heart-Failure
+
+
+**From Data to Dwellings: Decoding Amsterdam's Housing Prices**  
+Interactive R-Shiny app for housing price analysis and prediction to identify trends affecting housing prices.<br>
+🔗 https://github.com/AyushmanGHub/From-Data-to-Dwellings-Decoding-Amsterdam-s-Housing-Prices
+
+
+
+
 
