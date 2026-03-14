@@ -45,19 +45,24 @@ Exploring world of finance especially intersection of quantitative finance and m
 
 # 📌 Major Projects
 
+## 🔬 Work in Progress - **Causality Detection in High-Dimensional Time Series**
+Project implementing a model-free causality detection method based on **Information Imbalance of distance ranks** for complex dynamical systems. The project explores causal inference in **high-dimensional time series** using synthetic dynamical systems and statistical validation experiments.
+
+🔗 Repository coming soon
+
 ## 📈 Quantitative Finance Projects
 
-**Z-Score Alpha – Statistical Arbitrage Strategy**  (currently working)
+**Z-Score Alpha – Statistical Arbitrage Strategy**<br>
 Quant research project for identifying mean-reversion opportunities using Z-score signals and time-series analysis.  
-🔗 https://github.com/AyushmanGHub/Z-Score_Alpha-Statistical_Arbitrage_Strategy  
-
-**QuantPulse – Short-term Portfolio Optimizer**  
-Portfolio optimization framework using predictive models and financial time-series data.  
-🔗 https://github.com/AyushmanGHub/QuantPulse_Short-term-Portfolio-Optimizer  
+🔗 https://github.com/AyushmanGHub/Spread_Z-Score_-_Statistical_Arbitrage_Strategy
 
 **Minimum Variance Portfolio Optimization**  
 Risk-minimizing portfolio allocation using covariance estimation and mean-variance optimization.  
 🔗 https://github.com/AyushmanGHub/Minimum_Variance_Portfolio_Optimization  
+
+**QuantPulse – Short-term Portfolio Optimizer**  
+Portfolio optimization framework using predictive models and financial time-series data.  
+🔗 https://github.com/AyushmanGHub/QuantPulse_Short-term-Portfolio-Optimizer  
 
 
 ## 🤖 AI / Machine Learning Systems
