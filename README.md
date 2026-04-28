@@ -67,10 +67,6 @@ Portfolio optimization framework using predictive models and financial time-seri
 
 ## 🤖 AI / Machine Learning Systems
 
-**LectureAI – Agentic AI Tutor**  
-Agentic AI framework that transforms lecture videos into interactive learning experiences.  
-🔗 https://github.com/AyushmanGHub/LectureAI-Agentic-AI_freamework  
-
 **Streamlit Portfolio with AI Assistant**  
 Interactive portfolio with an integrated AI agent for answering queries.  
 🔗 https://github.com/AyushmanGHub/APortfolio  
