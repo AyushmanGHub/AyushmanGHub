@@ -1,5 +1,5 @@
 <h1 align="center" style="margin-bottom: 0;">👋 Hi, I'm Ayushman</h1>
-<h3 align="center">Data Science Student | Quant Research | AI & ML Systems | Gen-AI</h3>
+<h3 align="center">Data Scientist | Quant Research | AI & ML Systems | Gen-AI</h3>
 <h4 align="center">M.Sc. Data Science @ Chennai Mathematical Institute | B.Math @ Indian Statistical Institute</h4>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi, I'm Ayushman Anupam, a Data Science student who loves working with data. I enjoy building data-driven systems and exploring how mathematics, statistics, and AI can be used to solve real-world problems.
+Hi, I'm Ayushman Anupam, a Data Scientist who loves working with data. I enjoy building data-driven systems and exploring how mathematics, statistics, and AI can be used to solve real-world problems.
 
 My academic background in mathematics has naturally led me toward areas such as <b>Machine Learning, Statistical Modeling, Graph Theory, and Agentic AI systems</b>. I am particularly interested in designing intelligent systems that can transform complex data into meaningful insights and practical applications.
 
@@ -34,7 +34,8 @@ My academic background in mathematics has naturally led me toward areas such as 
 - **Agentic AI & LLM Engineering** – AI Agents, Agentic AI, RAG pipelines, LangGraph  
 - **Machine Learning & AI Systems** – Predictive Modeling, Deep Learning, LLM Applications
 - **Mathematical Modeling** – Graph Theory, Statistical Inference, Optimization
-- **Programming & Technical Tools** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly), R, SQL, LaTeX
+- **Programming & Technical Tools** - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly), R, SQL, LaTeX
+- **Time Series & Statistical Modeling** - ARIMA, GARCH, LSTM, Time Series Forecasting, Covariance Estimation, Stochastic Modeling
 - **Core Competencies** - Data Analysis, Predictive Modeling, Quantitative Research, Statistical Inference, Problem Solving
 - **Tools and Platforms** -Jupyter Notebook, Git & GitHub, Streamlit, R-Shiny, Microsoft Office (Excel, Word, PowerPoint)
 
@@ -65,26 +66,35 @@ Portfolio optimization framework using predictive models and financial time-seri
 🔗 https://github.com/AyushmanGHub/QuantPulse_Short-term-Portfolio-Optimizer  
 
 
-## 🤖 AI / Machine Learning Systems
+## 🤖 GenAI & System Design
+
+**LectureAI – Personal Lecture Assistant**  
+Agentic AI system that transforms lecture videos into interactive learning experiences with chatbot, summaries, mind maps, and assessments.  
+🔗 https://github.com/AyushmanGHub/LectureAI_-_Personal_Lecture_Assistant  
 
 **Streamlit Portfolio with AI Assistant**  
-Interactive portfolio with an integrated AI agent for answering queries.  
+Interactive portfolio with integrated AI agent (ResAgent) for dynamic query answering and real-time interaction.  
 🔗 https://github.com/AyushmanGHub/APortfolio  
+
+
+## 🧠 Deep Learning
+
+**Graph-Based Network Threat Detection using GCN**  
+Graph neural network model for detecting network intrusions using relational data.  
+🔗 https://github.com/AyushmanGHub/Graph_-_Based-Network_Threat_Detection  
+
+**SpectroCNN – Audio Classification with CNN**  
+CNN-based audio classification using Mel spectrograms for environmental sound recognition.  
+🔗 https://github.com/AyushmanGHub/SpectroCNN_-_Audio_Classification_with_CNN  
+
+
+## 🧪 Machine Learning Projects
 
 **CreditRisk – Borrower Default Prediction**  
 Binary classification model for credit risk analysis.  
 🔗 https://github.com/AyushmanGHub/CreditRisk-Predicting-Borrower-Reliability  
 
 **Heartbeat Sentinel – Heart Failure Prediction**  
-Healthcare risk prediction system with ML models and Streamlit deployment.<br>
-🔗 https://github.com/AyushmanGHub/Heartbeat-Sentinel_Decoding-and-Predicting-Heart-Failure
-
-
-**From Data to Dwellings: Decoding Amsterdam's Housing Prices**  
-Interactive R-Shiny app for housing price analysis and prediction to identify trends affecting housing prices.<br>
-🔗 https://github.com/AyushmanGHub/From-Data-to-Dwellings-Decoding-Amsterdam-s-Housing-Prices
-
-
-
-
+Healthcare ML system with Streamlit deployment.  
+🔗 https://github.com/AyushmanGHub/Heartbeat-Sentinel_Decoding-and-Predicting-Heart-Failure  
 
