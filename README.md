@@ -53,8 +53,12 @@ Project implementing a model-free causality detection method based on **Informat
 
 ## 📈 Quantitative Finance Projects
 
+**Quantitative Market Regime Clustering using Return and Volatility**<br>
+Return, volatility, and risk-regime analysis of NSE stocks using ML techniques and, cluster financial assets by behavior.<br>
+🔗 https://github.com/AyushmanGHub/Quantitative-Market-Regime-Clustering-using-Return-and-Volatility
+
 **Z-Score Alpha – Statistical Arbitrage Strategy**<br>
-Quant research project for identifying mean-reversion opportunities using Z-score signals and time-series analysis.  
+Quant research project for identifying mean-reversion opportunities using Z-score signals and time-series analysis.<br>
 🔗 https://github.com/AyushmanGHub/Spread_Z-Score_-_Statistical_Arbitrage_Strategy
 
 **Minimum Variance Portfolio Optimization**  
@@ -79,6 +83,10 @@ Interactive portfolio with integrated AI agent (ResAgent) for dynamic query answ
 
 ## 🧠 Deep Learning
 
+**NeuroScan AI - Deep Learning for Brain Tumor Recognition**<br>
+Brain tumors detecting and classifying from MRI scans for faster medical interpretation and AI-driven healthcare research.<br>
+🔗 https://github.com/AyushmanGHub/NeuroScan_AI_-_Deep_Learning_for_Brain_Tumor_Recognition
+
 **Graph-Based Network Threat Detection using GCN**  
 Graph neural network model for detecting network intrusions using relational data.  
 🔗 https://github.com/AyushmanGHub/Graph_-_Based-Network_Threat_Detection  
@@ -90,11 +98,20 @@ CNN-based audio classification using Mel spectrograms for environmental sound re
 
 ## 🧪 Machine Learning Projects
 
+**Synthetic Data Generation and Prediction for Corporate Rating using Bayesian and MCMC Techniques** <br>
+Bayesian–MCMC based system for synthetic financial data generation and corporate credit rating prediction.<br>
+🔗 https://github.com/AyushmanGHub/Synthetic-Data-Generation-and-Prediction-for-Corporate-rating-using-Bayesian-and-MCMC-techniques 
+
 **CreditRisk – Borrower Default Prediction**  
 Binary classification model for credit risk analysis.  
 🔗 https://github.com/AyushmanGHub/CreditRisk-Predicting-Borrower-Reliability  
 
 **Heartbeat Sentinel – Heart Failure Prediction**  
 Healthcare ML system with Streamlit deployment.  
-🔗 https://github.com/AyushmanGHub/Heartbeat-Sentinel_Decoding-and-Predicting-Heart-Failure  
+🔗 https://github.com/AyushmanGHub/Heartbeat-Sentinel_Decoding-and-Predicting-Heart-Failure
 
+## 🎓 Academic Research & Theoretical Work
+
+**Fiedler’s Theory of Spectral Graph Partitioning**
+Spectral graph theory and graph partitioning using the Laplacian matrix, Fiedler value (λ₂), and Fiedler vector for graph segmentation.<br>
+🔗 https://github.com/AyushmanGHub/Fiedlers-Spectral-Graph-Partitioning-Paper?utm_source=chatgpt.com
