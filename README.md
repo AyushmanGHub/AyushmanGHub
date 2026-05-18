@@ -3,23 +3,35 @@
 <h4 align="center">M.Sc. Data Science @ Chennai Mathematical Institute | B.Math @ Indian Statistical Institute</h4>
 
 <p align="center">
+  
+  <a href="https://ayushmanghub.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white" height="25" alt="portfolio" />
+  </a>
+  
   <a href="https://www.linkedin.com/in/ayushman-anupam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin" />
   </a>
-  <a href="https://ayushmanportfolio.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white" height="25" alt="portfolio" />
-  </a>
+  
   <a href="mailto:ayushmantutu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height="25" alt="email" />
   </a>
+  
   <a href="https://x.com/AyurAyushman" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25" alt="twitter" />
   </a>
 </p>
 
+<div align="center" style="margin-top: 40px;">
+  <a href="https://ayushmanportfolio.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Full%20Portfolio%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open Full App">
+  </a>
+  
+</div>
+
+
 <div align="center" style="margin-top: 20px;">
   <a href="https://drive.google.com/file/d/1nNMGpTRDHasUIm5fzZXCNol3qpapIwon/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/📄 View My Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume">
+    <img src="https://img.shields.io/badge/View My Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume">
   </a>
 </div>
 
