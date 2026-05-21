@@ -58,10 +58,9 @@ Exploring world of finance especially intersection of quantitative finance and m
 
 # 📌 Major Projects
 
-## 🔬 Work in Progress - **Causality Detection in High-Dimensional Time Series**
-Project implementing a model-free causality detection method based on **Information Imbalance of distance ranks** for complex dynamical systems. The project explores causal inference in **high-dimensional time series** using synthetic dynamical systems and statistical validation experiments.
-
-🔗 Repository coming soon
+## Work in Progress - **Causality Detection in High-Dimensional Time Series**
+Project implementing a model-free causality detection method based on **Information Imbalance of distance ranks** for complex dynamical systems. The project explores causal inference in **high-dimensional time series** using synthetic dynamical systems and statistical validation experiments.<br>
+🔗 https://github.com/AyushmanGHub/Causality_Detection_in_High-Dimensional_Time_Series
 
 ## 📈 Quantitative Finance Projects
 
