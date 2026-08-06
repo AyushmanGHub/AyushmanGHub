@@ -64,9 +64,9 @@ Project implementing a model-free causality detection method based on **Informat
 
 ## 📈 Quantitative Finance Projects
 
-**Quantitative Market Regime Clustering using Return and Volatility**<br>
-Return, volatility, and risk-regime analysis of NSE stocks using ML techniques and, cluster financial assets by behavior.<br>
-🔗 https://github.com/AyushmanGHub/Quantitative-Market-Regime-Clustering-using-Return-and-Volatility
+**Empirical Asset Pricing – CAPM & Fama-French Three-Factor Model**  
+Empirical analysis of asset pricing models using Fama-French portfolios, comparing CAPM and FF3 across multiple time frequencies with regression diagnostics, factor validation, and cross-frequency performance evaluation.  
+🔗 https://github.com/AyushmanGHub/Empirical-Asset-Pricing-CAPM-and-Fama-French-Three-Factor-Model
 
 **Z-Score Alpha – Statistical Arbitrage Strategy**<br>
 Quant research project for identifying mean-reversion opportunities using Z-score signals and time-series analysis.<br>
