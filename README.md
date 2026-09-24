@@ -1,5 +1,6 @@
 <h1 align="center" style="margin-bottom: 0;">👋 Hi, I'm Ayushman</h1>
 <h3 align="center">Data Scientist | Quant Research | AI & ML Systems | Gen-AI</h3>
+<h3> MLE-2 (AI and Full Stack Engineer) @ HP R&D, Bengalore</h3>
 <h4 align="center">M.Sc. Data Science @ Chennai Mathematical Institute | B.Math @ Indian Statistical Institute</h4>
 
 <p align="center">
